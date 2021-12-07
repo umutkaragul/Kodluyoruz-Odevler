@@ -1,4 +1,4 @@
-#Kodluyoruz Hml eğitimleri kapsamında yapmış olduğuz ilk ödev.
+#Kodluyoruz Hmtl eğitimleri kapsamında yapmış olduğuz ilk ödev.
 
 ![odevresmi](img/odev.jpg)
 
