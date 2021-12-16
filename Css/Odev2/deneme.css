@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+ul{
+    padding: 0;
+    margin: 0;
+}
+
 
 .clearfix{
     content: "";
